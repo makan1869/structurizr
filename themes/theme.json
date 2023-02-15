@@ -1,0 +1,28 @@
+{
+  "name" : "SonarQube",
+  "description" : "This theme includes element styles with icons for each of the SonarQube Services.",
+  "elements" : [ {
+    "tag" : "SonarQube - Nexus Repository",
+    "stroke" : "#804998",
+    "color" : "#804998",
+    "icon" : "SonarQube-NexusRepo.png"
+  },
+  {
+    "tag" : "SonarQube - Nexus IQ",
+    "stroke" : "#804998",
+    "color" : "#804998",
+    "icon" : "SonarQube-NexusIQ.png"
+  },
+  {
+    "tag" : "SonarQube - Code Scanner",
+    "stroke" : "#804998",
+    "color" : "#804998",
+    "icon" : "SonarQube-CodeScanner.png"
+  },
+  {
+    "tag" : "Fortify - Code Scanner",
+    "stroke" : "#804998",
+    "color" : "#804998",
+    "icon" : "Fortify.png"
+  }]
+}
