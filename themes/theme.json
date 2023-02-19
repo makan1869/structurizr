@@ -20,6 +20,12 @@
     "icon" : "SonarQube-CodeScanner.png"
   },
   {
+    "tag" : "Azure - Agent Pool",
+    "stroke" : "#804998",
+    "color" : "#804998",
+    "icon" : "Azure-AgentPool.png"
+  },
+  {
     "tag" : "Fortify - Code Scanner",
     "stroke" : "#804998",
     "color" : "#804998",
