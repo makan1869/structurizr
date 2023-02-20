@@ -1,17 +1,17 @@
 {
-  "name" : "SonarQube",
-  "description" : "This theme includes element styles with icons for each of the SonarQube Services.",
+  "name" : "On-Premise",
+  "description" : "This theme includes element styles with icons for each of the On-Premise Services.",
   "elements" : [ {
-    "tag" : "SonarQube - Nexus Repository",
+    "tag" : "SonaType - Nexus Repository",
     "stroke" : "#804998",
     "color" : "#804998",
-    "icon" : "SonarQube-NexusRepo.png"
+    "icon" : "SonaType-NexusRepo.png"
   },
   {
-    "tag" : "SonarQube - Nexus IQ",
+    "tag" : "SonaType - Nexus IQ",
     "stroke" : "#804998",
     "color" : "#804998",
-    "icon" : "SonarQube-NexusIQ.png"
+    "icon" : "SonaType-NexusIQ.png"
   },
   {
     "tag" : "SonarQube - Code Scanner",
